@@ -37,4 +37,4 @@ The dashboard aims to provide a clear, interactive view of the COVID-19 situatio
 
 ## Dashboard Preview
 
-[India COVID-19 Dashboard](https://public.tableau.com/shared/7RH8FFSCY?:display_count=n&:origin=viz_share_link)
+[India COVID-19 Dashboard](https://public.tableau.com/shared/BWW38ZJQZ?:display_count=n&:origin=viz_share_link)
